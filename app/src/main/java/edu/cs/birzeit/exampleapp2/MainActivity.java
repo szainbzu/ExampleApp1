@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         edtName = findViewById(R.id.edtName);
         edtPassword = findViewById(R.id.edtPassword);
+        // this is a test comment for github
 
 
     }
